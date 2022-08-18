@@ -36,4 +36,5 @@ poetry run python application.py
 ## Contributing
 
 Have an idea of new funtionality to add? Add a [suggestion](https://github.com/Savahn/MoP-Jenkins-bot/issues) 
+
 Want to try your hand at a new feature? Fork the [repo](https://github.com/Savahn/MoP-Jenkins-bot) and create a [pull request](https://github.com/Savahn/MoP-Jenkins-bot/pulls)
